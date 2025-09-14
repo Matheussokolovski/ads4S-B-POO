@@ -4,7 +4,7 @@ public class Pessoadto {
     private String nome;
     private Integer idade;
 
-    public Pessoadto() {}
+    public  Pessoadto() {}
     public Pessoadto(String nome, Integer idade) {
         this.nome = nome;
         this.idade = idade;
